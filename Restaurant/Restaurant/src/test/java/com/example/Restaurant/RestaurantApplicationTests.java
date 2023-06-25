@@ -9,5 +9,4 @@ class RestaurantApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
