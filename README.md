@@ -1,4 +1,4 @@
-# RestaurantApp
+# RestaurantApp 
 ---
 ### Framework and Languages Used
 * **Framework:** Spring Boot (MVC)
