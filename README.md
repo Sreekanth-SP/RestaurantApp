@@ -1,4 +1,3 @@
-
 # RestaurantApp 
 ---
 ### Framework and Languages Used
